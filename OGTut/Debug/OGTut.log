@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  texLoader.cpp
+  OGTut.cpp
+  objLoader.cpp
+  loadShader.cpp
+  indexer.cpp
+c:\users\werman\desktop\opengl_tut\ogtut\ogtut\indexer.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\werman\desktop\opengl_tut\ogtut\ogtut\indexer.cpp(54): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+  controls.cpp
+  Generating Code...
+  OGTut.vcxproj -> C:\Users\werman\Desktop\opengl_tut\OGTut\Debug\OGTut.exe
